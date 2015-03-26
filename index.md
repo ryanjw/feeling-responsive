@@ -5,24 +5,24 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "Ryan J. Williams, PhD - Microbial Ecologist"
+title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
-   image_fullwidth: "network.jpeg"
+   image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "Blog Posts"
+    title: "Blog & Portfolio"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'While I'm active in research, I also participate in a variety of workshops, conferences, and working groups.  Look here for updates on my work!'
+    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
     image: unsplash_9-302x182.jpg
 widget-2:
-    title: "About Me and Research"
+    title: "Why use this theme?"
     url: 'http://phlow.github.io/feeling-responsive/info/'
-    text: 'See my current projects here and CV'
-   image: diagram.jpeg
+    text: '<em>Feeling Responsive</em> is heavily customizable.<br>1. Language-Support :)<br>2. Optimized for speed and it&#39;s responsive.<br>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br>4. Six different Headers.<br>5. Customizable navigation, footer,...'
+    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
-    title: "Walkthroughs"
+    title: "Download Theme"
     url: 'https://github.com/Phlow/feeling-responsive'
-    text: 'I have several walkthroughs here for statistical analyses that I've generated.  Check here for tips and R code.'
-    image: co-occurrence_stuff.jpeg
+    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+    image: github-303x182.jpg
 ---
 
 
