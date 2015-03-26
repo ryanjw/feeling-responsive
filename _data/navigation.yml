@@ -7,6 +7,15 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+- title: About
+  url: "/info/"
+  side: left
+  dropdown:
+  - title: Research
+    url: "/info/"
+  - title: "CV"
+    url: "/Ryan_Williams_CV.pdf"
+
 - title: "Search"
   url: "/search/"
   side: right
