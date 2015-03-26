@@ -9,10 +9,10 @@ title: "Feeling Responsive – A Jekyll Theme Based On Foundation"
 header:
    image_fullwidth: "network.jpg"
 widget-1:
-    title: "can i change this"
+    title: "Blog Posts"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
-    text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
-    image: co-occurrence_stuff.jpg
+    text: 'Check here for updates on my activities.'
+    image: ryan_yellowstone_wetland.jpg
 widget-2:
     title: "Why use this theme?"
     url: 'http://phlow.github.io/feeling-responsive/info/'
