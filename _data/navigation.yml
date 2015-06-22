@@ -16,10 +16,6 @@
   - title: "CV"
     url: "/Ryan_Williams_CV.pdf"
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
 - title: "Contact"
   url: "/contact/"
   side: right
